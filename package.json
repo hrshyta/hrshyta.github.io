@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "clevertap-web-sdk": "^1.2.0",
+    "firebase": "^9.10.0"
+  }
+}
